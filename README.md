@@ -1,2 +1,2 @@
 # get-celebrities-downloader
- An updated famousbirthdays.com unofficial API. Download all the pictures with the corresponding celebrity data, with no hassle.
+ An updated famousbirthdays.com unofficial API made in Python 3. Download all the pictures you want with the corresponding celebrity data, with no hassle.
